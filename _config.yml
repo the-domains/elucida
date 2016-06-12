@@ -1,0 +1,28 @@
+name: Elucida
+favicon: null
+layout_spectrum: 0.9027374051511288
+typography_spectrum: 0.15774922701530159
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.39722044160589576
+  lightness: 0.862252782098949
+  saturation: 0.36233076686039567
+  rhythmicContrast: 0.8658511640969664
+purpose: []
